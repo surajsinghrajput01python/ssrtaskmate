@@ -1,0 +1,6 @@
+1. Go To Project Folder in Terminal:
+2. git init
+3. git add .
+4. git status
+5. git commit -m "Your message regarding changes"
+6. git push -u origin master
